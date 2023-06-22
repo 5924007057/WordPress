@@ -63,12 +63,12 @@
       "dropCap": true,
       "fontSizes": [
         {
-          "size": "12px",
+          "size": "16px",
           "name": "Small",
           "slug": "small"
         },
         {
-          "size": "18px",
+          "size": "24px",
           "name": "Medium",
           "slug": "medium"
         },
@@ -78,7 +78,7 @@
           "slug": "large"
         },
         {
-          "size": "36px",
+          "size": "40px",
           "name": "Extra Large",
           "slug": "x-large"
         }
