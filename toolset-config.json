@@ -14,12 +14,12 @@
         "type": "select",
         "values": [
           {
-            "text": "Disabled",
-            "value": "disabled"
+            "text": "Enabled :)",
+            "value": "enabled :)"
           },
           {
-            "text": "Enabled",
-            "value": "enabled"
+            "text": "disabled :(",
+            "value": "disabled :("
           }
         ]
       },
@@ -39,12 +39,12 @@
         "type": "select",
         "values": [
           {
-            "text": "Disabled",
-            "value": "disabled"
+            "text": "Enabled :)",
+            "value": "enabled :)"
           },
           {
-            "text": "Enabled",
-            "value": "enabled"
+            "text": "disabled :(",
+            "value": "disabled :("
           }
         ]
       },
@@ -341,7 +341,7 @@
         "archive"
       ],
       "gui": {
-        "display_name": "Read more link in excerpt",
+        "display_name": "Read more at the link in excerpt",
         "type": "select",
         "values": [
           {
