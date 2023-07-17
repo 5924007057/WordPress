@@ -14,12 +14,12 @@
         "type": "select",
         "values": [
           {
-            "text": "Disabled",
-            "value": "disabled"
+            "text": "Enabled :)",
+            "value": "enabled"
           },
           {
-            "text": "Enabled",
-            "value": "enabled"
+            "text": "Disabled :(",
+            "value": "disabled"
           }
         ]
       },
@@ -39,12 +39,12 @@
         "type": "select",
         "values": [
           {
-            "text": "Disabled",
-            "value": "disabled"
+            "text": "Enabled :)",
+            "value": "enabled"
           },
           {
-            "text": "Enabled",
-            "value": "enabled"
+            "text": "Disabled :(",
+            "value": "disabled"
           }
         ]
       },
@@ -190,12 +190,12 @@
         "type": "select",
         "values": [
           {
-            "text": "Disabled",
-            "value": "disabled"
+            "text": "Enabled :)",
+            "value": "enabled"
           },
           {
-            "text": "Enabled",
-            "value": "enabled"
+            "text": "Disabled :(",
+            "value": "disabled"
           }
         ]
       },
@@ -216,7 +216,7 @@
         "type": "select",
         "values": [
           {
-            "text": "Disabled",
+            "text": "Disabled :(",
             "value": "disabled"
           }
         ]
@@ -238,11 +238,11 @@
         "type": "select",
         "values": [
           {
-            "text": "Enable",
+            "text": "-Enable-",
             "value": 0
           },
           {
-            "text": "Disable",
+            "text": "-Disable-",
             "value": 1
           }
         ]
@@ -265,11 +265,11 @@
         "type": "select",
         "values": [
           {
-            "text": "Enable",
+            "text": "-Enable-",
             "value": 0
           },
           {
-            "text": "Disable",
+            "text": "-Disable-",
             "value": 1
           }
         ]
@@ -292,11 +292,11 @@
         "type": "select",
         "values": [
           {
-            "text": "Enable",
+            "text": "-Enable-",
             "value": 0
           },
           {
-            "text": "Disable",
+            "text": "-Disable-",
             "value": 1
           }
         ]
@@ -319,11 +319,11 @@
         "type": "select",
         "values": [
           {
-            "text": "Enable",
+            "text": "-Enable-",
             "value": 0
           },
           {
-            "text": "Disable",
+            "text": "-Disable-",
             "value": 1
           }
         ]
@@ -345,11 +345,11 @@
         "type": "select",
         "values": [
           {
-            "text": "Disable",
+            "text": "-Disable-",
             "value": 1
           },
           {
-            "text": "Enable",
+            "text": "-Enable-",
             "value": 0
           }
         ]
