@@ -63,7 +63,7 @@
       "dropCap": true,
       "fontSizes": [
         {
-          "size": "16px",
+          "size": "18px",
           "name": "Small",
           "slug": "small"
         },
@@ -73,12 +73,12 @@
           "slug": "medium"
         },
         {
-          "size": "32px",
+          "size": "30px",
           "name": "Large",
           "slug": "large"
         },
         {
-          "size": "40px",
+          "size": "36px",
           "name": "Extra Large",
           "slug": "x-large"
         }
